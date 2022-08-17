@@ -1,18 +1,20 @@
 <h1>Hi, I'm Allan-Michael Guthrie! 
 
-<h2>👨‍💻 Certifications</h2>
+<h2>👨‍💻 Certifications:</h2>
 
 <h2>👨‍💻 General IT Projects:</h2>
 
 - <b>PowerShell</b>
-    - [Active Directory]()
+  - [Active Directory]()
   
 - <b>Python</b>
   - [Code]()
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
-    -[SIEM](https://github.com/Allan-MichaelGuthrie/Setting-up-SIEM-Lab)
 
+ - <b>SIEM<b>
+    - [Security information and event management] ()
+    
 <h2>👨‍💻 Networking Projects:</h2>
 
 
