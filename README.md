@@ -1,4 +1,5 @@
 <h1>Hi, I'm Allan-Michael Guthrie! 
+IT Professional
 
 <h2>👨‍💻 Certifications:</h2>
 
@@ -17,6 +18,7 @@
     
 <h2>👨‍💻 Networking Projects:</h2>
 
+<h2>👨‍💻 Linux Basics:</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
