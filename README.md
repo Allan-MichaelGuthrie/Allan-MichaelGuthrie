@@ -19,7 +19,7 @@ IT Professional
 <h2>👨‍💻 Networking Projects:</h2>
 
 <h2>👨‍💻 Linux Basics:</h2>
-  -  (https://github.com/Allan-MichaelGuthrie/URL)
+  -  [Linux Commands Part 1]([https://github.com/Allan-MichaelGuthrie/Linux_Commands](https://github.com/Allan-MichaelGuthrie/Linux_Commands))
 
 <h2> 🤳 Connect with me:</h2>
 
