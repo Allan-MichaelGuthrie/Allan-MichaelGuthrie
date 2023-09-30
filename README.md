@@ -8,6 +8,8 @@ I'm a Information Technology professional that is breaking into Network Security
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allan-MichaelGuthrie&show_icons=true&theme=synthwave)
 <h2>👨‍💻 Certifications:</h2>
 
+- [CompTIA Secuity+](https://i.imgur.com/a0uuoL1.png)
+
 
 <h2>👨‍💻 General IT Projects:</h2>
 
