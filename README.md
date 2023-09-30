@@ -21,7 +21,7 @@ I'm a Information Technology professional that is breaking into Network Security
  
 <h2>👨‍💻 Linux Basics:</h2>
 
-   - [Linux Commands Part 1]([https://github.com/Allan-MichaelGuthrie/Linux_Commands])
+[Linux Commands Part 1](https://github.com/Allan-MichaelGuthrie/Linux_Commands)
 
 <!-- `README.md` (this file) appears on your GitHub profile.
 -->
