@@ -20,7 +20,7 @@ I'm a Information Technology professional that is breaking into Network Security
     - [How to setup a Security information and event management lab](https://github.com/Allan-MichaelGuthrie/Setting-up-SIEM-Lab)
  
 <h2>👨‍💻 Linux Basics:</h2>
-  - [Linux_Commands](https://github.com/Allan-MichaelGuthrie/Linux_Commands)
+  - [Linux_Commands]([https://github.com/Allan-MichaelGuthrie/Linux_Commands](https://www.youtube.com/watch?v=i2I4cOYg1IQ))
 
 <!-- `README.md` (this file) appears on your GitHub profile.
 -->
